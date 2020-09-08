@@ -34,11 +34,14 @@
 Linux Ubuntu 18.04
 
 编译
-$ mkdir build
-$ bash build.sh
+```sh
+ mkdir build
+ bash build.sh
+```
 
 运行
-$ ./bin/SensorFusion
+
+`./bin/SensorFusion`
 
 
 ### 链接
